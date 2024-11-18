@@ -7,6 +7,9 @@ title: Point85
 ---
 [Download Getting Started](assets/docs/Point85 OEE Getting Started Guide.pdf)
 
+![Getting Started](https://github.com/point85/oee-site/blob/main/assets/docs/Point85-OEE-Getting-Started-Guide.pdf)
+# https://github.com/point85/oee-site/tree/main/assets/docs
+
 [Download Archive](assets/archives/Santa Margarita.zip)
 
 # Font Size Example
