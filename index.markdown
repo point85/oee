@@ -3,14 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Point85
+title: Point85 Rev. 2
 ---
 
 # PDF Reference Example
 
 You can download the PDF file from the link below:
-
-[Download PDF Link](assets/docs/Point85-OEE-Getting-Started-Guide.pdf)
 
 [Download Getting Started](assets/docs/Point85 OEE Getting Started Guide.pdf)
 
@@ -21,8 +19,6 @@ You can download the PDF file from the link below:
 Here is a factory image from my repository:
 
 ![Factory Equipment](assets/images/FactoryEquipment.jpg)
-
-[Getting Started](https://github.com/point85/oee-site/blob/main/assets/docs/Point85-OEE-Getting-Started-Guide.pdf)
 
 # Font Size Example
 
