@@ -3,31 +3,31 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Point85 Rev. 5
+title: Point85 Rev. 11
 ---
 
 # PDF Reference Example
 
 You can download the PDF file from the link below:
 
-<a href="assets/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download Getting Started Guide</a>
+<a href="resources/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download Getting Started Guide</a>
 
-[Download Getting Started](assets/docs/Point85 OEE Getting Started Guide.pdf)
+[Download Getting Started](resources/docs/Point85 OEE Getting Started Guide.pdf)
 
 Download zip:
-<a href="assets/archives/Santa Margarita.zip">Download Santa Margarita</a>
+<a href="resources/files/Santa Margarita.zip">Download Santa Margarita</a>
 
-[Download Archive](assets/archives/Santa Margarita.zip)
+[Download Archive](resources/files/Santa Margarita.zip)
 
 # My Images
 
 Here is a factory image from my repository:
 
-![Factory Equipment](assets/images/FactoryEquipment.jpg)
+![Factory Equipment](resources/images/FactoryEquipment.jpg)
 
 another image:
 
-<img src="assets/images/FactoryEquipment.jpg" alt="Image" style="width:25%;">
+<img src="resources/images/FactoryEquipment.jpg" alt="Image" style="width:25%;">
 
 # Font Size Example
 
@@ -73,18 +73,18 @@ another image:
 
 | System |  |
 |-------|-------------|
-| ![Image 1](assets/images/FactoryEquipment.jpg) | **Overall Equipment Effectiveness** <br> Overall Equipment Effectiveness (OEE) is a key performance indicator for quantifying the utilization of manufacturing equipment. OEE is the product of availability, performance rate and quality rate for materials produced by that equipment. For more information, see the Introduction.|
-| ![Image 2](https://www.markdownguide.org/assets/images/tux.png) | Description for Image 2 |
+| ![Image 1](resources/images/FactoryEquipment.jpg) | **Overall Equipment Effectiveness** <br> Overall Equipment Effectiveness (OEE) is a key performance indicator for quantifying the utilization of manufacturing equipment. OEE is the product of availability, performance rate and quality rate for materials produced by that equipment. For more information, see the Introduction.|
+| ![Image 2](https://www.markdownguide.org/resources/images/tux.png) | Description for Image 2 |
 
 <p style="font-size: 20px;">Overall Equipment Effectiveness</p> 
-![Image 3](https://www.markdownguide.org/assets/images/tux.png) Overall Equipment Effectiveness (OEE) is a key performance indicator for quantifying the utilization of manufacturing equipment. OEE is the product of availability, performance rate and quality rate for materials produced by that equipment. For more information, see the Introduction.|
+![Image 3](https://www.markdownguide.org/resources/images/tux.png) Overall Equipment Effectiveness (OEE) is a key performance indicator for quantifying the utilization of manufacturing equipment. OEE is the product of availability, performance rate and quality rate for materials produced by that equipment. For more information, see the Introduction.|
 
 ---
 
 # Image with Text Overlay
 
 <div style="position: relative; text-align: center; color: black;">
-  <img src="assets/images/clouds4-cropped.jpg" alt="Image" style="width:100%;">
+  <img src="resources/images/clouds4-cropped.jpg" alt="Image" style="width:100%;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Point85</h1>
   </div>
