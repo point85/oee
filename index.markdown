@@ -3,22 +3,28 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Point85 Rev. 2
+title: Point85 Rev. 4
 ---
 
 # PDF Reference Example
 
 You can download the PDF file from the link below:
 
+<a href="assets/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download PDF</a>
+
 [Download Getting Started](assets/docs/Point85 OEE Getting Started Guide.pdf)
 
 [Download Archive](assets/archives/Santa Margarita.zip)
 
-# My Image
+# My Images
 
 Here is a factory image from my repository:
 
 ![Factory Equipment](assets/images/FactoryEquipment.jpg)
+
+another image:
+
+<img src="assets/images/FactoryEquipment.jpg" alt="Image" style="width:25%;">
 
 # Font Size Example
 
