@@ -3,16 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Point85 Rev. 4
+title: Point85 Rev. 5
 ---
 
 # PDF Reference Example
 
 You can download the PDF file from the link below:
 
-<a href="assets/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download PDF</a>
+<a href="assets/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download Getting Started Guide</a>
 
 [Download Getting Started](assets/docs/Point85 OEE Getting Started Guide.pdf)
+
+Download zip:
+<a href="assets/archives/Santa Margarita.zip">Download Santa Margarita</a>
 
 [Download Archive](assets/archives/Santa Margarita.zip)
 
