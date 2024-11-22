@@ -3,29 +3,23 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Point85 Rev. 11
+title: Point85 Rev. 14
 ---
+
+<h1>GeeksforGeeks</h1>
+<h2>GeeksforGeeks</h2>
+<h3>GeeksforGeeks</h3>
+<h4>GeeksforGeeks</h4>
+<h5>GeeksforGeeks</h5>
+<h6>GeeksforGeeks</h6>
 
 # PDF Reference Example
 
-You can download the PDF file from the link below:
+<a href="https://github.com/point85/OEE-Designer/blob/master/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download Getting Started Guide</a>
 
-<a href="resources/docs/Point85 OEE Getting Started Guide.pdf" target="_blank">Download Getting Started Guide</a>
-
-[Download Getting Started](resources/docs/Point85 OEE Getting Started Guide.pdf)
-
-Download zip:
 <a href="resources/files/Santa Margarita.zip">Download Santa Margarita</a>
 
-[Download Archive](resources/files/Santa Margarita.zip)
-
 # My Images
-
-Here is a factory image from my repository:
-
-![Factory Equipment](resources/images/FactoryEquipment.jpg)
-
-another image:
 
 <img src="resources/images/FactoryEquipment.jpg" alt="Image" style="width:25%;">
 
@@ -68,7 +62,6 @@ another image:
 
 
 
-
 # Image Gallery
 
 | System |  |
@@ -84,11 +77,12 @@ another image:
 # Image with Text Overlay
 
 <div style="position: relative; text-align: center; color: black;">
-  <img src="resources/images/clouds4-cropped.jpg" alt="Image" style="width:100%;">
+  <img src="resources/images/clouds4-cropped.jpg" alt="cloud image" style="width:100%; height: 60px;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Point85</h1>
   </div>
 </div>
+
 
 # Dropdown Menu Example
 
