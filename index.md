@@ -6,7 +6,7 @@
 # {% include blog_posts.html %}
 
 layout: home
-title: Point85 Rev. 16
+title: Point85 Rev. 19
 ---
 
 
@@ -131,7 +131,7 @@ function openCity(evt, cityName) {
 # Dropdown Menu Example
 
 <div class="dropdown">
-  <button class="dropbtn">Menu</button>
+  <button class="dropbtn">Dropdown Menu</button>
   <div class="dropdown-content">
     <a href="index.html">Home</a>
     <a href="about.html">About</a>
