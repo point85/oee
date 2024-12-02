@@ -106,7 +106,7 @@ The screen capture below is from the macOS application home page:
 <h3>Windows Application</h3>
 The screen capture below is from the Windows application home page:
 
-<img src="../resources/images/WindowsHomePage.png" alt="Windows Home" style="width:100%; display: block; margin-left: auto; margin-right: auto;"> 
+<img src="../resources/images/WindowsHomePage.png" alt="Windows Home" style="width:67%; display: block; margin-left: auto; margin-right: auto;"> 
 
 <a href="./index.html">Return to top</a>
 
@@ -115,7 +115,7 @@ The screen capture below is from the Windows application home page:
 <h3>Linux Application</h3>
 The screen capture below is from the Linux application home page:
 
-<img src="../resources/images/LinuxHomePage.png" alt="Linux Home" style="width:100%; display: block; margin-left: auto; margin-right: auto;"> 
+<img src="../resources/images/LinuxHomePage.png" alt="Linux Home" style="width:67%; display: block; margin-left: auto; margin-right: auto;"> 
 
 <a href="./index.html">Return to top</a>
 
@@ -124,7 +124,7 @@ The screen capture below is from the Linux application home page:
 <h3>Chrome/Edge Application</h3>
 The screen capture below is from the Chrome/Edge application home page:
 
-<img src="../resources/images/ChromeHomePage.png" alt="Chrome Home" style="width:100%; display: block; margin-left: auto; margin-right: auto;"> 
+<img src="../resources/images/ChromeHomePage.png" alt="Chrome Home" style="width:67%; display: block; margin-left: auto; margin-right: auto;"> 
 
 <a href="./index.html">Return to top</a>
 
