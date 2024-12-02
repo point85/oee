@@ -47,7 +47,8 @@ From these nine time buckets we can calculate OEE from its three components. Ava
 ​
 This time-loss model has been implemented by Point 85 in a suite of software applications. To learn more about these applications, please see the <a href="impl/index.html">Implementation</a> page.
 
-<a href="index.html">Back to Introduction</a>
+<a href="index.html">Return to top</a>
 
+---
 
 

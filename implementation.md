@@ -12,6 +12,8 @@ The Point 85 OEE applications enable:
 - Calculation of the OEE key performance indicator for the equipment using an optional work schedule for defining the scheduled production time
 - Monitoring of equipment availability, performance and quality events
 
+---
+
 <h2>Data Collection</h2>
 Sources of equipment availability, performance and quality event data include:
 - **Manual**: web browser, Android app or iOS app data entry
@@ -29,6 +31,10 @@ Sources of equipment availability, performance and quality event data include:
 - **Modbus**: a Modbus master communicating with its slaves.
 - **Cron Job**: a cron job scheduled to execute at specified points in time
 - **GE Proficy Historian**: a historian collecting tag data
+
+<a href="./index.html">Return to top</a>
+
+---
 
 <h2>Applications</h2>
 The Point85 applications supporting OEE are:
@@ -50,6 +56,10 @@ In addition, two GUI test applications assist in the development of an OEE solut
 
 The data for calculating OEE can be entered manually (for example at the end of a shift) or be collected from a data acquisition system event from one or more of the above data sources. For manual data collection the data can be summarized over a period of time (e.g. a shift) or entered as the events occurred. Collecting data at the event level allows for Mean Time Between Failure (MTBF) and Mean Time to Repair (MTTR) calculations.
 
+<a href="./index.html">Return to top</a>
+
+---
+
 <h2>System Architecture</h2>
 
 The diagram below is an section of the system architecture:
@@ -66,6 +76,10 @@ A mobile or web-based manual data collector running in a web server records the 
 If the system is configured for messaging, the event data is also sent to a RabbitMQ, JMS, MQTT or Kafka message broker to which a run-time monitor application can subscribe. A monitor displays a dashboard for viewing equipment OEE events. It also displays collector notifications and status information.
 
 The Java Persistence 2.2 API (JPA) as implemented by the Hibernate ORM framework together with the Hikari connection pool is used to persist OEE information to the database.
+
+<a href="./index.html">Return to top</a>
+
+---
 
 <h2>Database</h2>
 Hibernate and JPA abstract away database specific aspects of inserting, updating, reading and deleting records in the tables. The API is designed to work with any relational database supported by Hibernate.
@@ -86,4 +100,4 @@ The Vaadin web application is packaged in the OEE-Operator-*version*.war file in
 
 The Flutter iOS and macOS apps can be downloaded from the Apple App Store (search for "Point85 OEE") and the Android app from the Google Play Store (search for "OEE Point85").  The Windows, Linux and Chrome/Edge apps can be downloaded from the latest release in the git repository - oee_win_*version*.zip, oee_linux_*version*.zip or oee_web_*version*.zip.  Expand the archives into a folder of your choice.  For Windows and Linux, run the respective executable files (e.g. oee_win.exe).  For Chrome, start a web server from the index.html file location.
 
-<a href="./index.html">Back to Implementation</a>
+<a href="./index.html">Return to top</a>
