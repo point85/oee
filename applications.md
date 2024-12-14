@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Applications
+description: Description of the Designer, Collector, Monitor, Operator and Tester OEE java applications as well as the Flutter and Vaadin applications.
 permalink: /apps/
 ---
 <h2>JavaFX Applications</h2>

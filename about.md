@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Information about the Point85 open source projects.
 permalink: /about/
 ---
 

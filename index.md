@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Introduction
+description: Overall Equipment Effectiveness (OEE) is a key performance indicator
 ---
 
 Overall Equipment Effectiveness (OEE) is a key performance indicator for quantifying the utilization of manufacturing equipment. OEE is the product of availability, performance rate and quality rate of product for that piece of equipment.
@@ -10,7 +11,7 @@ No piece of equipment can operate indefinitely at its design speed and with no r
 A piece of equipment is designed to operate at an ideal run rate or design speed as units of good product produced per period of time (e.g. cans/hour). Actual performance can be above or below this rate. These are performance rate measures.
 
 Equipment never produces 100% good product for an extended period of time. The rejected units reduce the yield. These are quality rate measures. Each rejected unit can be measured as lost production time. For example, if the equipment is designed to produce 1 unit per minute, and one unit is rejected, that is 1 minute of lost time.
-​
+
 Kennedy in his book Understanding, Measuring, and Improving Overall Equipment Effectiveness, defines seven losses affecting OEE during the equipment’s running time. These losses are:
 
 <img src="resources/images/Losses.png" alt="Losses" style="width:70%; display: block; margin-left: auto; margin-right: auto;">
@@ -42,9 +43,9 @@ The total measurement period can be divided up as follows:
 7. **Efficient Net Production Time (ENPT)**: NPT - Reduced Speed
 8. **Effective Net Producton Time (EFNPT)**: ENPT - Rejects & Rework
 9. **Value Adding Time (VAT)**: EFNPT - Start-up
-​
+
 From these nine time buckets we can calculate OEE from its three components. Availability is RPT/AT, performance rate is ENPT/RPT and quality rate is VAT/ENPT. OEE is the product of these three fractions and is equal to VAT/AT.
-​
+
 This time-loss model has been implemented by Point 85 in a suite of software applications. To learn more about these applications, please see the <a href="impl/index.html">Implementation</a> page.
 
 <a href="index.html">Return to top</a>

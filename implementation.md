@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Implementation
+description: Implementation of the OEE java applications
 permalink: /impl/
 ---
 <h2>Overview</h2>
 The time-loss model discussed in the <a href="../index.html">Introduction</a> is implemented by open source projects hosted on GitHub. The parent project is the [OEE Designer](https://github.com/point85/OEE-Designer).  From the latest release, download the Point 85 OEE Getting Started and Point 85 OEE User Guide documents for more details. The binary code is in the oee-*version*.zip file on this page.
-​
+
 The Point 85 OEE applications enable:
 - Collection of equipment data from multiple sources to support OEE calculations or general purpose data acquisition
 - Resolution of a collected data value into an availability reason or produced material quantity to provide input to the performance, availability and quality components of OEE
@@ -67,7 +68,7 @@ The diagram below is an section of the system architecture:
 
 The OEE applications can be grouped into design-time and run-time. The design-time Designer application is used to define the plant equipment, data sources, event resolution scripts, manufacturing work schedule, availability reasons, produced materials and units of measure for data collectors. The designer also includes a dashboard and trending capabilities.
 
-​An automated run-time data collector receives an input value from a data source source and executes a JavaScript resolver on this input to calculate an output value. The output value is a reason (mapped to an OEE loss category) for availability or performance events, a new production count (good, reject/rework or startup) for quality events or a material/job change event. For the case of a custom event, the output value is ignored.
+An automated run-time data collector receives an input value from a data source source and executes a JavaScript resolver on this input to calculate an output value. The output value is a reason (mapped to an OEE loss category) for availability or performance events, a new production count (good, reject/rework or startup) for quality events or a material/job change event. For the case of a custom event, the output value is ignored.
 
 The event data is stored in a relational database using the Java Persistence API (JPA) where it is available for OEE calculations. Microsoft SQL Server, Oracle, MySQL, PostgresQL and HSQLDB are currently supported.
 

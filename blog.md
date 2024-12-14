@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+description:  Blog about aspects of Overall Equipment Effectiveness (OEE)
 permalink: /blog/
 ---
 
