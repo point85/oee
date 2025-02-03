@@ -1,7 +1,7 @@
 title: Point85 OEE
 email: point85.llc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Overall Equipment Effectiveness
+    Overall Equipment Effectiveness (v1.0)
 author: Kent Randall
 baseurl: "/oee" # the subpath of the site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -15,7 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
   
 include:
   - images
